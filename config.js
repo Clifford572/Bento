@@ -15,7 +15,7 @@ const CONFIG = {
 	name: 'Clifford',
 	openInNewTab: true,
 	twelveHourFormat: false,
-  title: 'Bento',
+  title: 'Home',
 
 	// Theme
 	theme: 'solarized',
